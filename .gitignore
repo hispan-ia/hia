@@ -1,0 +1,36 @@
+*.bak
+*.log
+*~
+.~*
+.pypirc
+~*
+tmp*
+tags
+
+# ide
+.idea
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# Distribution / packaging
+.Python
+env/
+build/
+conda-dist
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
